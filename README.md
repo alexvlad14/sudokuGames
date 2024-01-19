@@ -1,6 +1,4 @@
 # SudokuGames
-# Introduction
-The games were developed by a group of undergraduate students of the Department of Computer Science of the Aristotle University of Thessaloniki.
 
 # Game description
 SudokuGames consists of three games the Classic Sudoku , the Killer Sudoku , the Duidoku with the aim of player to be able to enjoy all the games that comprise Sudoku in one application and to be able to choose to play each game with letters or numbers. Below will be an analysis of each game individually.
